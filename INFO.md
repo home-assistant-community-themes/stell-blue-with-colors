@@ -1,7 +1,7 @@
 # Stell Blue with Colors Theme
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/stell-blue-with-colors.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/stell-blue-with-colors)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 <a href="https://www.buymeacoffee.com/maartenpaauw" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 > The Stell Blue with Colors Theme by joselito11
